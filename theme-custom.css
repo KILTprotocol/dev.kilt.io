@@ -1,0 +1,18 @@
+:root {
+  --theme-color: #ef5a28;
+  --base-font-size: 16px;
+  --heading-color: var(--mono-shade3);
+  --heading-font-family: "Montserrat", sans-serif;
+  --heading-h1-font-weight: 600;
+  --heading-h2-padding: 0;
+  --modular-scale: 1.2;
+  --sidebar-background: #33002f;
+  --sidebar-nav-link-color: #ffffffd6;
+  --link-color: var(--theme-color);
+  --table-row-odd-background: var(--mono-tint3);
+}
+
+.sidebar-nav::before {
+  content: url(imgs/logo.png);
+  margin-bottom: 20px;
+}
