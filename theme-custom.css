@@ -4,8 +4,10 @@
   --heading-color: var(--mono-shade3);
   --heading-font-family: "Montserrat", sans-serif;
   --heading-h1-font-weight: 600;
+  --heading-h2-font-weight: 600;
+  --heading-h3-font-weight: 600;
   --heading-h2-padding: 0;
-  --modular-scale: 1.2;
+  --modular-scale: 1.26;
   --sidebar-background: #33002f;
   --sidebar-nav-link-color: #ffffffd6;
   --link-color: var(--theme-color);
@@ -17,4 +19,8 @@
 .sidebar-nav::before {
   content: url(imgs/logo.png);
   margin-bottom: 20px;
+}
+
+.sidebar-nav a img {
+  display: none;
 }
