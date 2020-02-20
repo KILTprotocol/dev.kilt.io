@@ -42,17 +42,17 @@ Use our [demo-mobile-wallet][demo-mobile-wallet-repo] and easily customize the c
 
 # Software Overview
 
-```
-🐥 = DEV environment
-🐓 = PROD environment, stable
-```
-
 ## Codebases and Dependencies
 
 <p align="center">
 <img width="820" src="./imgs/overview.jpg">  
   <div align="center"><sub><sup>Codebases and Dependencies</sup></sub></div> 
 </p>
+
+```
+🐥 = DEV environment
+🐓 = PROD environment, stable
+```
 
 ## Infrastructure / CI
 
