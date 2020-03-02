@@ -6,7 +6,7 @@
 
 ### <img width="40" src="./imgs/chain.jpg"> KILT Blockchain
 
-See the currently running nodes on our [telemetry][telemetry]. Dive into the transactions happening on the KILT Blockchain at this very moment on our [blockchain explorer][chain-explorer].
+See the currently running nodes on our [Telemetry][telemetry]. Dive into the transactions happening on the KILT Blockchain at this very moment on our [Blockchain Explorer][chain-explorer].
 
 ### <img width="34" src="./imgs/faucet.jpg"> Faucet
 
@@ -14,7 +14,7 @@ Request test money from the [Mash-Net Faucet][faucet].
 
 ### <img width="40" src="./imgs/demo.jpg"> Demo-client
 
-Check out our the [demo-client][demo], a sample application that showcases all features of the KILT Protocol and connects to the KILT Blockchain.
+Check out our the [Demo Client][demo], a sample application that showcases all the features of the KILT Protocol and connects to the KILT Blockchain.
 
 ## Learn
 
@@ -24,7 +24,7 @@ Hands-on: try out the [101 Tutorial/Workshop][workshop] to quickly ramp-up on KI
 
 ### <img width="30" src="./imgs/whitepaper.jpg"> Whitepaper
 
-Dive deeper into KILT concepts by taking a look at the [whitepaper][whitepaper].
+Dive deeper into KILT concepts by taking a look at the [Whitepaper][whitepaper].
 
 ## Build!
 
@@ -37,7 +37,7 @@ Use the [KILT SDK][sdk-js-repo] to easily build JavaScript- or TypeScript-based 
 ### <img width="28" src="./imgs/phone_hand.jpg"> Mobile wallet
 
 **Build a demo in no time.**
-Use our [demo-mobile-wallet][demo-mobile-wallet-repo] and easily customize the claim/credential type, branding and colors, to demo your own KILT-based use case.
+Use our [Demo Mobile Wallet][demo-mobile-wallet-repo] aka Sporran. Easily customise the claim/credential type, branding and colors, to demo your own KILT-based use case.
 
 
 # Software Overview
