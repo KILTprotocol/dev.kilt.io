@@ -6,7 +6,7 @@
 
 ### <img width="40" src="./imgs/chain.jpg"> KILT Blockchain
 
-See the currently running nodes on our [Telemetry][telemetry]. Dive into the transactions happening on the KILT Blockchain at this very moment on our [blockchain explorer][chain-explorer].
+See the currently running nodes on our [Telemetry][telemetry]. Dive into the transactions happening on the KILT Blockchain at this very moment on our [Blockchain Explorer][chain-explorer].
 
 ### <img width="34" src="./imgs/faucet.jpg"> Faucet
 
