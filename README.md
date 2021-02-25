@@ -72,7 +72,7 @@ Use our [Demo Mobile Wallet][demo-mobile-wallet-repo] aka Sporran. Easily custom
 | DEMO APP COMPANION          | [prototype-services][prototype-services-repo] |            services.devnet.kilt.io            |                services.kilt.io                |
 | DEMO APP COMPANION          | [faucet][faucet-repo]                         |        [faucet-devnet][faucet-devnet]         |                [faucet][faucet]                |
 | BLOCKCHAIN OBSERVATION TOOL | [telemetry][telemetry-repo]                   |                     (not)                     |             [telemetry][telemetry]             |
-| BLOCKCHAIN OBSERVATION TOOL | [polkadot-apps][polkadot-apps-repo]           |                     (not)                     |        [chain-explorer][chain-explorer]        |
+| BLOCKCHAIN OBSERVATION TOOL | [polkadot-apps][polkadot-apps-repo]           | [chain-explorer.devnet][chain-explorer-devnet]|        [chain-explorer][chain-explorer]        |
 
 # Community
 
@@ -88,12 +88,13 @@ Join our [Community Chat][cmy-channel]!
 [prototype-services-repo]: https://github.com/KILTprotocol/prototype-services
 [faucet-repo]: https://github.com/KILTprotocol/faucet
 [telemetry-repo]: https://github.com/KILTprotocol/substrate-telemetry
-[polkadot-apps-repo]: https://github.com/KILTprotocol/polkadot-apps
+[polkadot-apps-repo]: https://github.com/polkadot-js/apps
 [demo.devnet]: https://demo.devnet.kilt.io
 [demo]: https://demo.kilt.io
 [faucet-devnet]: https://faucet-devnet.kilt.io
 [faucet]: https://faucet.kilt.io
 [telemetry]: http://telemetry.kilt.io/#/KILT%20Testnet
 [chain-explorer]: https://chain-explorer.kilt.io
+[chain-explorer-devnet]: https://chain-explorer.devnet.kilt.io
 [workshop]: https://kiltprotocol.github.io/kilt-workshop-101
 [whitepaper]: https://kilt.io/wp-content/uploads/2020/01/KILT-White-Paper-v2020-Jan-15.pdf
