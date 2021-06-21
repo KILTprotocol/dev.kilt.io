@@ -45,7 +45,7 @@ Use our [Demo Mobile Wallet][demo-mobile-wallet-repo] aka Sporran. Easily custom
 ## Codebases and Dependencies
 
 <p align="center">
-<img width="820" src="./imgs/overview.jpg">  
+<img width="820" src="./imgs/overview.png">  
   <div align="center"><sub><sup>Codebases and Dependencies</sup></sub></div> 
 </p>
 
